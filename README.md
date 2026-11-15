@@ -48,7 +48,7 @@ ai-resume-scanner/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-└── .env
+└── .env.example
 ```
 
 ## Installation and Setup
